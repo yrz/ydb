@@ -1,0 +1,13 @@
+ydb is a db engine trying to tackle specifically IoT needs.
+It's based on the upcoming reference information model of the IoT-A project:
+www.iot-a.eu
+
+docs/
+  misc documents
+  
+src/
+  sources
+
+data/
+  data samples
+  
